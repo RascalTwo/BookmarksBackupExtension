@@ -11,6 +11,7 @@
 		"downloads"
 	],
 	"browser_action": {
-		"default_title": "JSON Bookmarks"
+		"default_title": "JSON Bookmarks",
+		"default_popup": "popup/index.html"
 	}
 }
